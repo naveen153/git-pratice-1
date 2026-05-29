@@ -1,5 +1,5 @@
 print("Hello, World!")
 
-name = input("Enter your name: ")
+name = input("Naveen Kumar: ")
 
 print("Welcome", name)
