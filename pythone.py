@@ -1,5 +1,9 @@
 print("Hello, World!")
 
-name = input("Enter your name: ")
+name = input("Naveen Kumar: ")
 
-print("Welcome", name)
+<<<<<<< HEAD
+print("Sharmi", name)
+=======
+print("Naveen", name)
+>>>>>>> cf163e749cab53d836757c5dfd3e020d7753841e
